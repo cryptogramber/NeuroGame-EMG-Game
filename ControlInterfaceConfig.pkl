@@ -1,0 +1,33 @@
+S'HOSTNAME'
+p1
+.S'FILEDIR'
+p1
+.S'USERNAME'
+p1
+.S'PASSWORD'
+p1
+.S'NeuroGame Player'
+p1
+.S'99'
+p1
+.S'Player_99'
+p1
+.S'Right Hand'
+p1
+.S'[Default] Arm Flexor (Underside)'
+p1
+.S'[Default] Arm Extensor (Top)'
+p1
+.(lp1
+F5
+aF5
+a.(lp1
+F0
+aF0
+a.F2.5
+.F2
+.F20
+.F7
+.F1
+.F1000
+.
